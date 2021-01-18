@@ -1,1 +1,2 @@
-# Thinkful-Portfolio
+# Thinkful-Portfolio 
+Fictitious portfolio project.
